@@ -1,5 +1,5 @@
 ### Conformity
-- [ x ] [Changelog entry](https://docs.gitlab.com/ee/development/changelog.html) 
+- [ ] [Changelog entry](https://docs.gitlab.com/ee/development/changelog.html) 
 - [ ] [Documentation](https://docs.gitlab.com/ee/development/documentation/workflow.html) ([if required](https://docs.gitlab.com/ee/development/documentation/workflow.html#when-documentation-is-required))
 - [ ] [Code review guidelines](https://docs.gitlab.com/ee/development/code_review.html)
 - [ ] [Merge request performance guidelines](https://docs.gitlab.com/ee/development/merge_request_performance_guidelines.html)
