@@ -16,3 +16,4 @@ mysql -u root -p
 
 
 select host, user, password_expired, password_last_changed, password_lifetime from mysql.user;
+test
