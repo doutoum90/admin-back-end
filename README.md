@@ -1,25 +1,25 @@
 
 ## ajout de module, de controlleur et de service pour products
 ```console
-foo@bar:~$nest g mo products && nest g co products && nest g s products
+foo@bar:~$ nest g mo products && nest g co products && nest g s products
 ```
 
 ## ajout de l'ORM
 ```console
-foo@bar:~$npm install --save @nestjs/typeorm typeorm mysql
+foo@bar:~$ npm install --save @nestjs/typeorm typeorm mysql
 ```
 
 ## installation de mysql et demarrage en global
 
 ### install de mysql avec brew
 ```console
-foo@bar:~$brew install mysql
+foo@bar:~$ brew install mysql
 ```
 
 ### demarrage de mysql
 ```console
-foo@bar:~$brew services start mysql 
-#ou mysql.server start
+foo@bar:~$ brew services start mysql 
+# ou mysql.server start
 ```
 
 ### activation du mode sécurisé
@@ -30,7 +30,7 @@ foo@bar:~$ mysql_secure_installation
 ### arrêt du service mysql
 ```console
 foo@bar:~$ brew services stop mysql 
-#ou mysql.server stop
+# ou mysql.server stop
 ```
 
 ### connexion en mode root.
